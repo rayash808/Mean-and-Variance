@@ -1,5 +1,5 @@
 # Ex:01  Mean and variance of a discrete  distribution
-## Date: 24.08.24
+
 
 # Aim : 
 
